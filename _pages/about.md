@@ -22,7 +22,13 @@ Publications
 
 Teaching
 ======
-1. 
+1. CS305: Computer Networks, Undergraduate Course, Teaching Assistant, fall 2017, Computer Science and Engineering, Southern University of Science and Technology
+2. CS202: Computer Organization, Undergraduate Course, Teaching Assistant, spring 2018, Computer Science and Engineering, Southern University of Science and Technology
+3. CIS-1051: Intro Prob Solv & Prog-Python, Undergraduate Course, Teaching Assistant, fall 2019, Computer & Information Sciences, Temple University
+4. CIS-3329: Network Architectures, Undergraduate Course, Teaching Assistant, fall 2019, Computer & Information Sciences, Temple University
+5. CIS-3329: Network Architectures, Undergraduate Course, Teaching Assistant, spring 2020, Computer & Information Sciences, Temple University
+6. CIS-1068: Program Design and Abstraction, Undergraduate Course, Teaching Assistant, spring 2020, Computer & Information Sciences, Temple University
+7. CS202: Computer Organization, Undergraduate Course, Teaching Student Assistant, spring 2021, Computer Science and Engineering, Southern University of Science and Technology
 
 
 Contact me

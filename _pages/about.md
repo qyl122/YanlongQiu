@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr.Yanlong Qiu is a dual ph.D student from Temple University and Southern University of Science and Technology, instructed by [Dr. Jin Zhang](https://jinzhang-sustech.github.io/) and [Dr. Bo Ji](https://people.cs.vt.edu/boji/). He will graduate this year and join Calterah in September. His research interests are mainly in security threats in mmWave radar sensing, including novel attack models, defense strategies, radar-to-radar interference mitigation, and interference cancelation.
+Dr. Yanlong Qiu is a dual ph.D student from Temple University and Southern University of Science and Technology, instructed by [Dr. Jin Zhang](https://jinzhang-sustech.github.io/) and [Dr. Bo Ji](https://people.cs.vt.edu/boji/). He will graduate this year and join Calterah in September. His research interests are mainly in security threats in mmWave radar sensing, including novel attack models, defense strategies, radar-to-radar interference mitigation, and interference cancelation.
 
 Education
 ======
